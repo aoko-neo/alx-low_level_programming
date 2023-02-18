@@ -1,1 +1,1 @@
-Print chararacters using puts function
+Print characters using printf function
