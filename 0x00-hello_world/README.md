@@ -1,1 +1,1 @@
-Generate an executale file with name
+Print chararacters using puts function
