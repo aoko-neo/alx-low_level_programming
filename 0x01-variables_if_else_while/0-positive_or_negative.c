@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
+/* Main - Entry point */
 
-/* betty style doc for fucntion main goes there */
+/* Description: 'Determine positive and negative values'*/
+
+/* Return: Always 0 (Success) */
 int main(void)
 {
 	int n;
@@ -14,11 +16,11 @@ int main(void)
 	/* your code goes there */
 	if (n < 0)
 	{
-		printf("%d is positive\n", n);
+		printf("%d is negative\n", n);
 	}
 	else if (n > 0)
 	{
-		printf("%d is negative\n", n);
+		printf("%d is positive\n", n);
 	}
 	else
 	{

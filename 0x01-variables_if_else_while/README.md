@@ -1,1 +1,1 @@
-Determine a positive and a negative value
+Determine positive and negative values
