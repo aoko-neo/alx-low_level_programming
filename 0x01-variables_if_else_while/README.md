@@ -1,1 +1,1 @@
-Print single digit characters form 1 to 9
+Print 0 to 10 without using char
