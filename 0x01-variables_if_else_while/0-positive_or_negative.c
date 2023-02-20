@@ -2,12 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/* Main - Entry point */
-
-/* Description: 'Determine positive and negative values'*/
-
-/* Return: Always 0 (Success) */
-int main(void)
+/**
+ * Main - get value
+ *
+ * Description: n gets the value
+ *
+ * Return: 0
+*/ 
+int main(void)	/* Get value */
 {
 	int n;
 
