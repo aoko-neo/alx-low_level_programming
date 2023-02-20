@@ -1,1 +1,1 @@
-Print lowercase alphabet
+Print lowercase and uppercase alphabet
