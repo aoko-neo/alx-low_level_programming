@@ -9,7 +9,7 @@ int main(void)		/* print single digit characters */
 {
 	char be;
 
-	for (be = '0'; be < '9'; be++)
+	for (be = '0'; be <= '9'; be++)
 		putchar(be);
 
 	putchar('\n');
