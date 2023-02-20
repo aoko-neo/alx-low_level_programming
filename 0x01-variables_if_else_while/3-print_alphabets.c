@@ -18,5 +18,6 @@ int main(void)
 	{
 		putchar(de);
 	}
+	putchar('\n');
 	return (0);
 }
