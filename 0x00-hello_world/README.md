@@ -1,1 +1,1 @@
-Generate assembly code
+Create assembly code in intel syntax
