@@ -1,10 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
-int main(void)
+/**
+ * Main - Entry point
+ *
+ * DEescription: print last digit
+ *
+ * Return: 0 Always (Success)
+ */
+int main(void)		/* Print last digit */
 {
 	int n;
 
