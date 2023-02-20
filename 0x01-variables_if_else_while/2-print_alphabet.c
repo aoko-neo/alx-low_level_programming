@@ -6,13 +6,12 @@
  */
 int main(void)
 {
-	int a = 97;
+	char be;
 
-	for (a; a <= 122; a++)
+	for (be = 'a'; be <= 'z'; be++)
 	{
-		putchar(a);
-		putchar(',');
-		putchar(' ');
+		putchar(be);
 	}
+	putchar('\n');
 	return (0);
 }
