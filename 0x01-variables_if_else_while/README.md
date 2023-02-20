@@ -1,1 +1,1 @@
-Print lowercase and uppercase alphabet
+Print lowercas alphabet minus q and e
