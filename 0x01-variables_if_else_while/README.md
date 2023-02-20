@@ -1,1 +1,1 @@
-Print resulr of random numbers
+Determine a positive and a negative value
