@@ -1,1 +1,1 @@
-Print base 16 numbers
+Print combinations of single digit numbers
