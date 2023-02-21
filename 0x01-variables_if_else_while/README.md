@@ -1,1 +1,1 @@
-Print combinations of single digit numbers
+print lowercase alphabet in reverse

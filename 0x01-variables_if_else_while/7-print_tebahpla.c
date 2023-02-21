@@ -7,9 +7,9 @@
  */
 int main(void)		/* print lowercase letter in reverse */
 {
-	char be = 'z';
+	char be;
 
-	for (be; be >= 'a'; be--)
+	for (be = 'z'; be >= 'a'; be--)
 	{
 		putchar(be);
 	}
